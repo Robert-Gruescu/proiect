@@ -1,0 +1,68 @@
+C:\Users\robij\OneDrive\Desktop\mtp\proiectul 1\proiectul 1\obj\Debug\net6.0\proiectul 1.csproj.AssemblyReference.cache
+C:\Users\robij\OneDrive\Desktop\mtp\proiectul 1\proiectul 1\obj\Debug\net6.0\proiectul 1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\robij\OneDrive\Desktop\mtp\proiectul 1\proiectul 1\obj\Debug\net6.0\proiectul 1.AssemblyInfoInputs.cache
+C:\Users\robij\OneDrive\Desktop\mtp\proiectul 1\proiectul 1\obj\Debug\net6.0\proiectul 1.AssemblyInfo.cs
+C:\Users\robij\OneDrive\Desktop\mtp\proiectul 1\proiectul 1\obj\Debug\net6.0\proiectul 1.csproj.CoreCompileInputs.cache
+C:\Users\robij\OneDrive\Desktop\mtp\proiectul 1\proiectul 1\obj\Debug\net6.0\proiectul 1.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\robij\OneDrive\Desktop\mtp\proiectul 1\proiectul 1\obj\Debug\net6.0\proiectul 1.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\robij\OneDrive\Desktop\mtp\proiectul 1\proiectul 1\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\robij\OneDrive\Desktop\mtp\proiectul 1\proiectul 1\bin\Debug\net6.0\appsettings.json
+C:\Users\robij\OneDrive\Desktop\mtp\proiectul 1\proiectul 1\bin\Debug\net6.0\proiectul 1.exe
+C:\Users\robij\OneDrive\Desktop\mtp\proiectul 1\proiectul 1\bin\Debug\net6.0\proiectul 1.deps.json
+C:\Users\robij\OneDrive\Desktop\mtp\proiectul 1\proiectul 1\bin\Debug\net6.0\proiectul 1.runtimeconfig.json
+C:\Users\robij\OneDrive\Desktop\mtp\proiectul 1\proiectul 1\bin\Debug\net6.0\proiectul 1.dll
+C:\Users\robij\OneDrive\Desktop\mtp\proiectul 1\proiectul 1\bin\Debug\net6.0\proiectul 1.pdb
+C:\Users\robij\OneDrive\Desktop\mtp\proiectul 1\proiectul 1\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\robij\OneDrive\Desktop\mtp\proiectul 1\proiectul 1\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\robij\OneDrive\Desktop\mtp\proiectul 1\proiectul 1\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\robij\OneDrive\Desktop\mtp\proiectul 1\proiectul 1\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\robij\OneDrive\Desktop\mtp\proiectul 1\proiectul 1\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\robij\OneDrive\Desktop\mtp\proiectul 1\proiectul 1\obj\Debug\net6.0\staticwebassets\msbuild.proiectul 1.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\robij\OneDrive\Desktop\mtp\proiectul 1\proiectul 1\obj\Debug\net6.0\staticwebassets\msbuild.build.proiectul 1.props
+C:\Users\robij\OneDrive\Desktop\mtp\proiectul 1\proiectul 1\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.proiectul 1.props
+C:\Users\robij\OneDrive\Desktop\mtp\proiectul 1\proiectul 1\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.proiectul 1.props
+C:\Users\robij\OneDrive\Desktop\mtp\proiectul 1\proiectul 1\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\robij\OneDrive\Desktop\mtp\proiectul 1\proiectul 1\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\robij\OneDrive\Desktop\mtp\proiectul 1\proiectul 1\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\robij\OneDrive\Desktop\mtp\proiectul 1\proiectul 1\obj\Debug\net6.0\scopedcss\bundle\proiectul 1.styles.css
+C:\Users\robij\OneDrive\Desktop\mtp\proiectul 1\proiectul 1\obj\Debug\net6.0\proiectul 1.csproj.CopyComplete
+C:\Users\robij\OneDrive\Desktop\mtp\proiectul 1\proiectul 1\obj\Debug\net6.0\proiectul 1.dll
+C:\Users\robij\OneDrive\Desktop\mtp\proiectul 1\proiectul 1\obj\Debug\net6.0\refint\proiectul 1.dll
+C:\Users\robij\OneDrive\Desktop\mtp\proiectul 1\proiectul 1\obj\Debug\net6.0\proiectul 1.pdb
+C:\Users\robij\OneDrive\Desktop\mtp\proiectul 1\proiectul 1\obj\Debug\net6.0\proiectul 1.genruntimeconfig.cache
+C:\Users\robij\OneDrive\Desktop\mtp\proiectul 1\proiectul 1\obj\Debug\net6.0\ref\proiectul 1.dll
+C:\Users\robij\OneDrive\Desktop\mtp\proiectul 1\proiectul 1\bin\Debug\net6.0\library.json
+C:\Users\robij\OneDrive\Desktop\proiectul 1\proiectul 1\proiectul 1\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\robij\OneDrive\Desktop\proiectul 1\proiectul 1\proiectul 1\bin\Debug\net6.0\appsettings.json
+C:\Users\robij\OneDrive\Desktop\proiectul 1\proiectul 1\proiectul 1\bin\Debug\net6.0\library.json
+C:\Users\robij\OneDrive\Desktop\proiectul 1\proiectul 1\proiectul 1\bin\Debug\net6.0\proiectul 1.exe
+C:\Users\robij\OneDrive\Desktop\proiectul 1\proiectul 1\proiectul 1\bin\Debug\net6.0\proiectul 1.deps.json
+C:\Users\robij\OneDrive\Desktop\proiectul 1\proiectul 1\proiectul 1\bin\Debug\net6.0\proiectul 1.runtimeconfig.json
+C:\Users\robij\OneDrive\Desktop\proiectul 1\proiectul 1\proiectul 1\bin\Debug\net6.0\proiectul 1.dll
+C:\Users\robij\OneDrive\Desktop\proiectul 1\proiectul 1\proiectul 1\bin\Debug\net6.0\proiectul 1.pdb
+C:\Users\robij\OneDrive\Desktop\proiectul 1\proiectul 1\proiectul 1\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\robij\OneDrive\Desktop\proiectul 1\proiectul 1\proiectul 1\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\robij\OneDrive\Desktop\proiectul 1\proiectul 1\proiectul 1\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\robij\OneDrive\Desktop\proiectul 1\proiectul 1\proiectul 1\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\robij\OneDrive\Desktop\proiectul 1\proiectul 1\proiectul 1\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\robij\OneDrive\Desktop\proiectul 1\proiectul 1\proiectul 1\obj\Debug\net6.0\proiectul 1.csproj.AssemblyReference.cache
+C:\Users\robij\OneDrive\Desktop\proiectul 1\proiectul 1\proiectul 1\obj\Debug\net6.0\proiectul 1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\robij\OneDrive\Desktop\proiectul 1\proiectul 1\proiectul 1\obj\Debug\net6.0\proiectul 1.AssemblyInfoInputs.cache
+C:\Users\robij\OneDrive\Desktop\proiectul 1\proiectul 1\proiectul 1\obj\Debug\net6.0\proiectul 1.AssemblyInfo.cs
+C:\Users\robij\OneDrive\Desktop\proiectul 1\proiectul 1\proiectul 1\obj\Debug\net6.0\proiectul 1.csproj.CoreCompileInputs.cache
+C:\Users\robij\OneDrive\Desktop\proiectul 1\proiectul 1\proiectul 1\obj\Debug\net6.0\proiectul 1.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\robij\OneDrive\Desktop\proiectul 1\proiectul 1\proiectul 1\obj\Debug\net6.0\proiectul 1.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\robij\OneDrive\Desktop\proiectul 1\proiectul 1\proiectul 1\obj\Debug\net6.0\staticwebassets\msbuild.proiectul 1.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\robij\OneDrive\Desktop\proiectul 1\proiectul 1\proiectul 1\obj\Debug\net6.0\staticwebassets\msbuild.build.proiectul 1.props
+C:\Users\robij\OneDrive\Desktop\proiectul 1\proiectul 1\proiectul 1\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.proiectul 1.props
+C:\Users\robij\OneDrive\Desktop\proiectul 1\proiectul 1\proiectul 1\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.proiectul 1.props
+C:\Users\robij\OneDrive\Desktop\proiectul 1\proiectul 1\proiectul 1\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\robij\OneDrive\Desktop\proiectul 1\proiectul 1\proiectul 1\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\robij\OneDrive\Desktop\proiectul 1\proiectul 1\proiectul 1\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\robij\OneDrive\Desktop\proiectul 1\proiectul 1\proiectul 1\obj\Debug\net6.0\scopedcss\bundle\proiectul 1.styles.css
+C:\Users\robij\OneDrive\Desktop\proiectul 1\proiectul 1\proiectul 1\obj\Debug\net6.0\proiectul 1.csproj.CopyComplete
+C:\Users\robij\OneDrive\Desktop\proiectul 1\proiectul 1\proiectul 1\obj\Debug\net6.0\proiectul 1.dll
+C:\Users\robij\OneDrive\Desktop\proiectul 1\proiectul 1\proiectul 1\obj\Debug\net6.0\refint\proiectul 1.dll
+C:\Users\robij\OneDrive\Desktop\proiectul 1\proiectul 1\proiectul 1\obj\Debug\net6.0\proiectul 1.pdb
+C:\Users\robij\OneDrive\Desktop\proiectul 1\proiectul 1\proiectul 1\obj\Debug\net6.0\proiectul 1.genruntimeconfig.cache
+C:\Users\robij\OneDrive\Desktop\proiectul 1\proiectul 1\proiectul 1\obj\Debug\net6.0\ref\proiectul 1.dll

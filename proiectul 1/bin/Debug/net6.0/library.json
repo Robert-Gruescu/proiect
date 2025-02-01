@@ -1,0 +1,22 @@
+{
+  "Name": "Biblioteca Centrala",
+  "Address": "Strada Exemplu, Nr. 1",
+  "Books": [],
+  "Users": [
+    {
+      "$type": "proiectul_1.Models.Client, proiectul 1",
+      "CNP": null,
+      "LoanHistory": [],
+      "Debts": 0.0,
+      "Name": "aaa",
+      "Username": "123",
+      "Password": "123"
+    },
+    {
+      "$type": "proiectul_1.Models.Administrator, proiectul 1",
+      "Name": "Unicorn",
+      "Username": "sclipici ",
+      "Password": "01062003"
+    }
+  ]
+}
